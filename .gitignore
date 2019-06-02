@@ -7,3 +7,4 @@ db.sqlite3
 .DS_Store
 blog/.idea
 mysite/.idea
+local_settings.py
